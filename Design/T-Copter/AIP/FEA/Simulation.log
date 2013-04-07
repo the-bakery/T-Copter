@@ -1,0 +1,113 @@
+﻿Simulation Simulation:1 started: 3/14/2013, 7:33:26 AM
+Number of configurations: 1
+Default mesh: 159546 elements, 234313 nodes
+Simulation Simulation:1 failed. 3/14/2013, 7:33:41 AM
+Total time 0:00:15
+
+Simulation Simulation:1 started: 3/14/2013, 7:36:04 AM
+Number of configurations: 1
+Default mesh: 159546 elements, 234313 nodes
+Solution time 216s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 7:39:54 AM
+Total time 0:03:50
+
+Simulation Simulation:1 started: 3/14/2013, 8:02:46 AM
+Number of configurations: 1
+Default mesh: 11703 elements, 21809 nodes
+Model separates into 6 independent components
+Soft spring was added
+Solution time 57.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 8:03:49 AM
+Total time 0:01:03
+
+Simulation Simulation:1 started: 3/14/2013, 8:12:55 AM
+Number of configurations: 1
+Default mesh: 11703 elements, 21809 nodes
+Model separates into 6 independent components
+Soft spring was added
+Solution time 57.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 8:13:58 AM
+Total time 0:01:03
+
+Simulation Simulation:1 started: 3/14/2013, 8:19:20 AM
+Number of configurations: 1
+Default mesh: 11703 elements, 21809 nodes
+Model separates into 6 independent components
+Soft spring was added
+Solution time 304s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 8:24:30 AM
+Total time 0:05:10
+
+Simulation Simulation:1 started: 3/14/2013, 8:27:46 AM
+Number of configurations: 1
+Default mesh: 11703 elements, 21809 nodes
+Model separates into 6 independent components
+Soft spring was added
+Solution time 85.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 8:29:16 AM
+Total time 0:01:30
+
+Simulation Simulation:1 started: 3/14/2013, 8:37:08 AM
+Number of configurations: 1
+Default mesh: 11703 elements, 21809 nodes
+Model separates into 6 independent components
+Soft spring was added
+Soft spring was added
+Solution time 42.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 3/14/2013, 8:37:57 AM
+Total time 0:00:49
+
+Simulation Simulation:1 started: 3/14/2013, 8:42:04 AM
+Number of configurations: 1
+Default mesh: 29553 elements, 52723 nodes
+Simulation Simulation:1 failed. 3/14/2013, 8:42:16 AM
+Total time 0:00:12
+
+Simulation Simulation:1 started: 3/14/2013, 8:45:16 AM
+Number of configurations: 1
+Default mesh: 29553 elements, 52723 nodes
+Model separates into 6 independent components
+Soft spring was added
+Soft spring was added
+Solution time 59.6s
+Convergence rate: 50%
+h Refinement #1: 63770 elements, 105754 nodes
+
+Model separates into 6 independent components
+Soft spring was added
+Soft spring was added
+Solution time 229s
+Convergence rate: 30.6%
+h Refinement #2: 155513 elements, 241402 nodes
+
+Model separates into 6 independent components
+Soft spring was added
+Solution time 1.01e+003s
+Convergence rate: 39.6%
+h Refinement #3: 325282 elements, 486523 nodes
+
+Model separates into 6 independent components
+Soft spring was added
+Simulation Simulation:1 failed. 3/14/2013, 10:20:19 AM
+Total time 1:35:03
+
+Simulation Simulation:1 started: 3/14/2013, 10:21:22 AM
+Number of configurations: 1
+Default mesh: 325282 elements, 486523 nodes
+Model separates into 6 independent components
+Soft spring was added
+Simulation Simulation:1 failed. 3/14/2013, 12:47:00 PM
+Total time 2:25:38
+

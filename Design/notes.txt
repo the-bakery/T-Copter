@@ -1,0 +1,7 @@
+T-Copter
+
+Arm length: 
+    rcexplorer tri: 48cm = 19in arm length
+                           19.7in CG to motor -> 34in motor to motor
+    hallstudio tri: 18-20in motor to motor
+    hallstudio T  : 
