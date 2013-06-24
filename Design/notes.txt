@@ -5,3 +5,8 @@ Arm length:
                            19.7in CG to motor -> 34in motor to motor
     hallstudio tri: 18-20in motor to motor
     hallstudio T  : 
+
+
+Plywood: 
+    Meranti/(Maple?) 1/8" from Bauer: 
+       0.522g/cm^3  =  400g / (2' * 1.3' * 1/8")
